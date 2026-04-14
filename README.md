@@ -121,20 +121,3 @@ So sánh 4 mô hình phân loại:
 
 ---
 
-## ▶️ Hướng dẫn chạy
-
-```bash
-# Cài đặt thư viện
-pip install pandas matplotlib seaborn scikit-learn
-
-# Mở notebook
-jupyter notebook DA_TEST_NAMNT.ipynb
-```
-
-> ⚠️ Đảm bảo file `data_test_uv.CSV` nằm cùng thư mục với notebook.
-
----
-
-## 👤 Tác giả
-
-**NAMNT** – Data Analyst
